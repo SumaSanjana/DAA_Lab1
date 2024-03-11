@@ -23,3 +23,4 @@ for i in range(len(A)):
 
 print("\nExecution Time: %.8f seconds" % (end_time - start_time))
 print("Number of Swaps: %d" % swaps)
+print("Yes")
